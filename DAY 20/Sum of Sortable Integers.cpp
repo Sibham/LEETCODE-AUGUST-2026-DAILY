@@ -1,3 +1,6 @@
+//Approach (Using KMP)
+//T.C: O(n log n + n · M), where M is the number of divisors of n
+//S.C: O(n)
 class Solution {
 public:
 
